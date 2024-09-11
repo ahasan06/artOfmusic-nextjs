@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Classical Music",
+      "slug": "introduction-to-classical-music",
+      "description": "Discover the foundations of classical music, including its history, major composers, and key works that have shaped the genre.",
+      "price": 120,
+      "instructor": "Dr. Emily Harper",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1593697972646-2f348871bd56?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "title": "Jazz Improvisation for Beginners",
+      "slug": "jazz-improvisation-beginners",
+      "description": "Learn the art of jazz improvisation, including scales, chord progressions, and improvisational techniques for beginners.",
+      "price": 100,
+      "instructor": "John Coltrane Jr.",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1517255296355-67363edb090d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "title": "Mastering the Violin",
+      "slug": "mastering-the-violin",
+      "description": "An advanced course for violinists looking to refine their technique, improve their sound, and master complex pieces.",
+      "price": 150,
+      "instructor": "Yasmine Farkas",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1495433324511-bf8e92934d90?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "title": "Music Production with Ableton Live",
+      "slug": "music-production-ableton-live",
+      "description": "Explore the tools and techniques needed to produce professional-level music using Ableton Live, from recording to mixing and mastering.",
+      "price": 200,
+      "instructor": "DJ Mike Masters",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1593339651435-e41c86430c00?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 5,
+      "title": "Exploring World Music",
+      "slug": "exploring-world-music",
+      "description": "Journey through the diverse sounds and rhythms of world music, learning about traditional and contemporary music from different cultures.",
+      "price": 110,
+      "instructor": "Professor Maria Rivera",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 6,
+      "title": "Electronic Music Composition",
+      "slug": "electronic-music-composition",
+      "description": "Learn to compose, arrange, and produce electronic music, covering the essentials from sound design to sequencing.",
+      "price": 180,
+      "instructor": "Anna Thompson",
+      "isFeatured": true,
+      "image": "https://plus.unsplash.com/premium_photo-1664102191709-38f9db3fe4f1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
